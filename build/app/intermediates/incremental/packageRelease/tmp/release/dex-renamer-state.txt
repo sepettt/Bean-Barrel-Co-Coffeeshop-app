@@ -1,0 +1,4 @@
+#Wed Jul 17 21:03:46 MYT 2024
+base.0=/Users/imranhisham/Visual Code Studio Project/bean_barrel_co/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-0 /Users/imranhisham/.gradle/caches/transforms-3/21164ee2b492a32a5de7edb209fa23e4/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.3.0-1 /Users/imranhisham/.gradle/caches/transforms-3/586d980703205471d0c6151c4ad16696/transformed/jetified-play-services-basement-18.3.0/res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-2 /Users/imranhisham/.gradle/caches/transforms-3/5f7f49f041fb4b7f166be618b82cf86f/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-3 /Users/imranhisham/.gradle/caches/transforms-3/d9a275b4bef15d4ef2d4d4ce80af0490/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-21.0.0-4 /Users/imranhisham/.gradle/caches/transforms-3/db1cda937fc1d400fb51238e6ec00fa8/transformed/jetified-firebase-common-21.0.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-5 /Users/imranhisham/.gradle/caches/transforms-3/ea5ec68b21a45e344821cb269104f92e/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-main-6 /Users/imranhisham/.pub-cache/hosted/pub.dev/firebase_core-3.2.0/android/src/main/res
+io.flutter.plugins.firebase.core.firebase_core-release-7 /Users/imranhisham/.pub-cache/hosted/pub.dev/firebase_core-3.2.0/android/src/release/res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 /Users/imranhisham/Visual Code Studio Project/bean_barrel_co/build/firebase_core/generated/res/pngs/release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 /Users/imranhisham/Visual Code Studio Project/bean_barrel_co/build/firebase_core/generated/res/resValues/release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 /Users/imranhisham/Visual Code Studio Project/bean_barrel_co/build/firebase_core/generated/res/rs/release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 /Users/imranhisham/Visual Code Studio Project/bean_barrel_co/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 /Users/imranhisham/Visual Code Studio Project/bean_barrel_co/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 /Users/imranhisham/Visual Code Studio Project/bean_barrel_co/build/firebase_core/intermediates/merged_res/release
